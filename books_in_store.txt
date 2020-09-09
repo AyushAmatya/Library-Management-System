@@ -1,0 +1,6 @@
+Harry Potter,JK Rowling,10,$2
+Start With Why,Simon Sinek,2,$1.5
+Programming With Python,John Smith,2,$1.5
+The Fault In Our Stars,Jhon Green,988,$5
+Brida,Paulo Coelho,122,$3.3
+All The Light We Cannot See,Anthony Doerr,11,$2.8
